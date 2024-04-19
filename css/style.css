@@ -575,6 +575,7 @@ h1.arrow span {
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
+	background:url('../img/.kyras.png') no-repeat center center;
 	height:400px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
